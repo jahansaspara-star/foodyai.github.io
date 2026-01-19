@@ -1,0 +1,3 @@
+droidrun
+pure-python-adb
+opencv-python
